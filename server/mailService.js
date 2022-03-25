@@ -2,8 +2,8 @@ const nodemailer = require('nodemailer');
 let instance = null;
 
 const SERVICE = 'gmail';
-const USER = 'iamrishabh9598@gmail.com';
-const PASSWORD = 'Rishabh@123';
+const USER = 'abc@gmail.com';
+const PASSWORD = '123456789';
 
 
 const transporter = nodemailer.createTransport({
