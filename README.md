@@ -32,6 +32,9 @@ INSERT INTO users (`name`, email_id) VALUES ('Kunal', 'kunal@gmail.com');
 INSERT INTO users (`name`, email_id) VALUES ('Luv', 'luv@gmail.com');
 INSERT INTO users (`name`, email_id) VALUES ('Vineet', 'vineet@gmail.com');
 INSERT INTO users (`name`, email_id) VALUES ('Chris', 'chris@gmail.com');
+INSERT INTO users (`name`, email_id) VALUES ('Vineet', 'vineet@gmail.com');
+INSERT INTO users (`name`, email_id) VALUES ('Zayn', 'zayn@gmail.com');
+INSERT INTO users (`name`, email_id) VALUES ('Akash', 'akash@gmail.com');
 ```
 Create the table interviews with fields id, email1, email2, startTime, endTime. Run the following SQL query.
 ```
