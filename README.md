@@ -61,5 +61,3 @@ node run serve
 If everything is successfull you will the see the text "app is running" and "db is connected" on your terminal.
 
 Then open go to client and open start another server with index.html file open. 
-
-Here is the screenshot of the working system / frontend.
